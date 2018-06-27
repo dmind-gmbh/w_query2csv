@@ -7,6 +7,8 @@ wolo.pl '.' studio
 2009 - 2018
 wolo.wolski@gmail.com
 
+https://github.com/w010/w_query2csv/
+
 
 
 0. SEE MANUAL IN /doc/manual.sxw !!!
